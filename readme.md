@@ -1,4 +1,3 @@
-
 # 🎓 Certificados - Plataforma de Emissão e Validação
 
 Sistema completo para **emissão, validação e visualização de certificados online**, voltado para cursos livres e treinamentos. Permite que usuários validem seus certificados com segurança, e que administradores os gerem com facilidade.
